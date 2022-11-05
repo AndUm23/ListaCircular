@@ -4,8 +4,7 @@ package listas;
  *
  * @author andum
  */
-public class nodo {
-    int dato;
-    nodo siguiente;
+public class cajero {
     String nombre;
+    int clave;
 }

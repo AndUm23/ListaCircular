@@ -1,4 +1,5 @@
 # ListaCircular
-Nodos en lista circular con Java
+## Nodos en lista circular con Java
 
-#Programa en JAVA para Sistemas Operativos
+_Programa en JAVA para Sistemas Operativos
+:uso de consola
